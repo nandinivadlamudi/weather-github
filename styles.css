@@ -1,0 +1,34 @@
+.sbutton{
+	margin-left:45%;
+}
+
+
+
+
+/*#wall {
+	
+	background-image: url("http://allswalls.com/images/bokeh-lights-sunset-city-wallpaper-2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+*/
+.gtext{
+	text-align: center;
+}
+
+.stable{
+	width: 300px;
+	text-align: left;
+	color: black;
+	
+	font-size: 17px;
+}
+
+ 
+
+}
+.stable tbody tr:hover td, .stable tbody tr:hover th {
+    background-color: black;
+}
+
